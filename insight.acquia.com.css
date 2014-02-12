@@ -1,4 +1,4 @@
-*.* { display:none;}
+html * { display:none !important;}
 
 body {
   background-image: -webkit-gradient(linear,  left top,  left bottom, 
