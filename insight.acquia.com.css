@@ -1,4 +1,4 @@
-body {
+body !important{
   background-image: -webkit-gradient(linear,  left top,  left bottom, 
     color-stop(0.00, red), 
 		color-stop(16%, orange),
